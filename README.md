@@ -1,11 +1,11 @@
-# huntsman
+# 夜神猎人
 
 > A Vue.js project
 
-## Build Setup
+## 呵呵
 
 ``` bash
-# install dependencies
+# 牛
 npm install
 
 # serve with hot reload at localhost:8080
